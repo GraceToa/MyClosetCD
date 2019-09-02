@@ -22,13 +22,14 @@ This app use Core Data Framework, developed by Apple that allows us to simplify 
     <tr>
         <th colspan="3"> iPhone 8 12-2 </th> 
     </tr>
-          </tr>
+      
 <tr>
      <td><img src="https://user-images.githubusercontent.com/10947013/64113142-c7ee2f00-cd89-11e9-8ca2-d0873223ac3f.png"             width="250" alt="register"></td>          
             </tr>
      <tr>
-        <td><https://user-images.githubusercontent.com/10947013/64113092-a42ae900-cd89-11e9-8054-ed18919a76b7.png"width="250" alt="login"  </td>
-
+        <td><img src="https://user-images.githubusercontent.com/10947013/64113092-a42ae900-cd89-11e9-8054-ed18919a76b7.png" 
+            width="250" alt="login"  </td>
+</tr>
         
 
   

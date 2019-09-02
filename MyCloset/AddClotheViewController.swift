@@ -141,7 +141,6 @@ class AddClotheViewController: UIViewController {
         typeBtn.setTitle("What's the type?", for: .normal)
         ocassionBtn.setTitle("What's the Ocassion?", for: .normal)
         stationBtn.setTitle("for what Season?", for: .normal)
-        imagePhoto.image = UIImage(named: "dresess.png")
         ratingControl.rating = 0
     }
     

@@ -1,5 +1,5 @@
 <table align="center"><tr><td align="center" width="9999">
-<img src="https://user-images.githubusercontent.com/10947013/64112046-81e39c00-cd86-11e9-8942-883f21a160fe.png" align="center" width="150" alt="Project icon">
+<img src="https://user-images.githubusercontent.com/10947013/64112337-66c55c00-cd87-11e9-8373-ff1dc2fac6e3.png" align="center" width="150" alt="Project icon">
 
 # My Closet
 

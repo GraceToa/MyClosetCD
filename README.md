@@ -18,7 +18,7 @@ This app use Core Data Framework, developed by Apple that allows us to simplify 
 - Core Data
 - MVC
 
-<table border="3" bordercolor="black" align="center">
+<table border="3" bordercolor="black" align="center"width="9999">
     <tr>
         <th> iPhone 8 12-2 </th> 
     </tr>

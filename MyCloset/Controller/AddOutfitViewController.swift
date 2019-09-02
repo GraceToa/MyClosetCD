@@ -30,7 +30,7 @@ class AddOutfitViewController: UIViewController {
         navigationController?.navigationBar.tintColor = UIColor.white
         
         tableSeason.isHidden = true
-        addSeason.layer.cornerRadius = 5
+        addSeason.layer.cornerRadius = 7
         note.layer.cornerRadius = 5
         
         //desig images

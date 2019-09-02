@@ -166,7 +166,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="tml-tC-KwZ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2100" y="-695.38043478260875"/>
+            <point key="canvasLocation" x="3212" y="-642"/>
         </scene>
         <!--Add Clothes-->
         <scene sceneID="coI-hc-kjk">
@@ -347,7 +347,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="cNj-mB-gY4" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2100" y="-1436"/>
+            <point key="canvasLocation" x="2100" y="-695"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="lV8-ha-b8j">
@@ -419,21 +419,21 @@
                                                     <rect key="frame" x="10" y="10" width="394" height="89.666666666666671"/>
                                                     <subviews>
                                                         <stackView opaque="NO" contentMode="scaleAspectFit" axis="vertical" distribution="fillProportionally" translatesAutoresizingMaskIntoConstraints="NO" id="bgh-V8-tad">
-                                                            <rect key="frame" x="0.0" y="0.0" width="142" height="89.666666666666671"/>
+                                                            <rect key="frame" x="0.0" y="0.0" width="197.66666666666666" height="89.666666666666671"/>
                                                             <subviews>
                                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qkr-TX-Myt">
-                                                                    <rect key="frame" x="0.0" y="0.0" width="142" height="32"/>
+                                                                    <rect key="frame" x="0.0" y="0.0" width="197.66666666666666" height="46"/>
                                                                     <fontDescription key="fontDescription" name="OriyaSangamMN" family="Oriya Sangam MN" pointSize="18"/>
                                                                     <nil key="highlightedColor"/>
                                                                 </label>
                                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8b5-vt-yXa">
-                                                                    <rect key="frame" x="0.0" y="31.999999999999996" width="142" height="35.666666666666657"/>
+                                                                    <rect key="frame" x="0.0" y="46" width="197.66666666666666" height="43.666666666666657"/>
                                                                     <fontDescription key="fontDescription" name="OriyaSangamMN" family="Oriya Sangam MN" pointSize="17"/>
                                                                     <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                     <nil key="highlightedColor"/>
                                                                 </label>
                                                                 <stackView opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="8" baselineRelativeArrangement="YES" translatesAutoresizingMaskIntoConstraints="NO" id="W07-0Q-vON" customClass="RatingControl" customModule="MyCloset" customModuleProvider="target">
-                                                                    <rect key="frame" x="0.0" y="67.666666666666671" width="142" height="22"/>
+                                                                    <rect key="frame" x="0.0" y="89.666666666666671" width="197.66666666666666" height="0.0"/>
                                                                     <userDefinedRuntimeAttributes>
                                                                         <userDefinedRuntimeAttribute type="size" keyPath="starSize">
                                                                             <size key="value" width="22" height="22"/>
@@ -443,10 +443,10 @@
                                                             </subviews>
                                                         </stackView>
                                                         <stackView opaque="NO" contentMode="scaleAspectFit" axis="vertical" distribution="fillProportionally" alignment="bottom" spacing="1" translatesAutoresizingMaskIntoConstraints="NO" id="jVI-8X-LW2">
-                                                            <rect key="frame" x="158" y="0.0" width="236" height="89.666666666666671"/>
+                                                            <rect key="frame" x="213.66666666666663" y="0.0" width="180.33333333333337" height="89.666666666666671"/>
                                                             <subviews>
                                                                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="placeholder" translatesAutoresizingMaskIntoConstraints="NO" id="nbm-Cz-DPZ">
-                                                                    <rect key="frame" x="111" y="0.0" width="125" height="89.666666666666671"/>
+                                                                    <rect key="frame" x="55.333333333333343" y="0.0" width="125" height="89.666666666666671"/>
                                                                     <constraints>
                                                                         <constraint firstAttribute="width" constant="125" id="kV3-7G-nLz"/>
                                                                     </constraints>
@@ -680,21 +680,21 @@
                                                     <rect key="frame" x="10" y="10" width="394" height="89.666666666666671"/>
                                                     <subviews>
                                                         <stackView opaque="NO" contentMode="scaleAspectFit" axis="vertical" distribution="fillProportionally" translatesAutoresizingMaskIntoConstraints="NO" id="v3d-WE-kyA">
-                                                            <rect key="frame" x="0.0" y="0.0" width="142" height="89.666666666666671"/>
+                                                            <rect key="frame" x="0.0" y="0.0" width="197.66666666666666" height="89.666666666666671"/>
                                                             <subviews>
                                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="B5O-sC-woQ">
-                                                                    <rect key="frame" x="0.0" y="0.0" width="142" height="32"/>
+                                                                    <rect key="frame" x="0.0" y="0.0" width="197.66666666666666" height="46"/>
                                                                     <fontDescription key="fontDescription" name="OriyaSangamMN" family="Oriya Sangam MN" pointSize="18"/>
                                                                     <nil key="highlightedColor"/>
                                                                 </label>
                                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cNo-UO-Vhh">
-                                                                    <rect key="frame" x="0.0" y="31.999999999999996" width="142" height="35.666666666666657"/>
+                                                                    <rect key="frame" x="0.0" y="46" width="197.66666666666666" height="43.666666666666657"/>
                                                                     <fontDescription key="fontDescription" name="OriyaSangamMN" family="Oriya Sangam MN" pointSize="17"/>
                                                                     <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                     <nil key="highlightedColor"/>
                                                                 </label>
                                                                 <stackView opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="8" baselineRelativeArrangement="YES" translatesAutoresizingMaskIntoConstraints="NO" id="3Cb-QG-TW3" customClass="RatingControl" customModule="MyCloset" customModuleProvider="target">
-                                                                    <rect key="frame" x="0.0" y="67.666666666666671" width="142" height="22"/>
+                                                                    <rect key="frame" x="0.0" y="89.666666666666671" width="197.66666666666666" height="0.0"/>
                                                                     <userDefinedRuntimeAttributes>
                                                                         <userDefinedRuntimeAttribute type="size" keyPath="starSize">
                                                                             <size key="value" width="22" height="22"/>
@@ -704,10 +704,10 @@
                                                             </subviews>
                                                         </stackView>
                                                         <stackView opaque="NO" contentMode="scaleAspectFit" axis="vertical" distribution="fillProportionally" alignment="bottom" spacing="1" translatesAutoresizingMaskIntoConstraints="NO" id="Pdg-SZ-76N">
-                                                            <rect key="frame" x="158" y="0.0" width="236" height="89.666666666666671"/>
+                                                            <rect key="frame" x="213.66666666666663" y="0.0" width="180.33333333333337" height="89.666666666666671"/>
                                                             <subviews>
                                                                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="placeholder" translatesAutoresizingMaskIntoConstraints="NO" id="Ii9-Q5-DLr">
-                                                                    <rect key="frame" x="111" y="0.0" width="125" height="89.666666666666671"/>
+                                                                    <rect key="frame" x="55.333333333333343" y="0.0" width="125" height="89.666666666666671"/>
                                                                     <constraints>
                                                                         <constraint firstAttribute="width" constant="125" id="4cV-rv-AFH"/>
                                                                     </constraints>
@@ -775,8 +775,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="6" translatesAutoresizingMaskIntoConstraints="NO" id="Hg3-9f-mY7">
-                                <rect key="frame" x="20" y="74" width="374" height="262"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="Hg3-9f-mY7">
+                                <rect key="frame" x="20" y="74" width="374" height="286"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="p9u-Fd-xvt">
                                         <rect key="frame" x="0.0" y="0.0" width="374" height="40"/>
@@ -786,7 +786,7 @@
                                         </constraints>
                                         <fontDescription key="fontDescription" name="OriyaSangamMN" family="Oriya Sangam MN" pointSize="17"/>
                                         <color key="tintColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                        <state key="normal" title="For what season of the year?  &gt;">
+                                        <state key="normal" title="For what season of the year?  ">
                                             <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
@@ -794,7 +794,7 @@
                                         </connections>
                                     </button>
                                     <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="pSc-Dp-J4u">
-                                        <rect key="frame" x="0.0" y="46" width="374" height="150"/>
+                                        <rect key="frame" x="0.0" y="45" width="374" height="150"/>
                                         <color key="backgroundColor" red="0.53962783520000002" green="0.58696720469999997" blue="0.66414091880000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="150" id="1uK-Ab-MXJ"/>
@@ -814,8 +814,14 @@
                                             <outlet property="delegate" destination="Jke-H7-0ko" id="mF8-6r-jX5"/>
                                         </connections>
                                     </tableView>
-                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" text="Note:" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="MA9-KL-u5J">
-                                        <rect key="frame" x="0.0" y="202" width="374" height="60"/>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Note:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qnD-Tg-VzB">
+                                        <rect key="frame" x="0.0" y="200" width="374" height="21"/>
+                                        <fontDescription key="fontDescription" name="OriyaSangamMN" family="Oriya Sangam MN" pointSize="15"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="MA9-KL-u5J">
+                                        <rect key="frame" x="0.0" y="226" width="374" height="60"/>
                                         <color key="backgroundColor" red="0.88879670600000005" green="0.88879670600000005" blue="0.88879670600000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="60" id="DEc-37-oGm"/>
@@ -826,7 +832,7 @@
                                 </subviews>
                             </stackView>
                             <stackView opaque="NO" contentMode="scaleToFill" alignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="puQ-8d-buN" customClass="RatingControl" customModule="MyCloset" customModuleProvider="target">
-                                <rect key="frame" x="130" y="341" width="125" height="25"/>
+                                <rect key="frame" x="130" y="365" width="125" height="25"/>
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="size" keyPath="starSize">
                                         <size key="value" width="25" height="25"/>
@@ -834,7 +840,7 @@
                                 </userDefinedRuntimeAttributes>
                             </stackView>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="lP4-jA-NXC">
-                                <rect key="frame" x="40" y="371" width="334" height="23"/>
+                                <rect key="frame" x="40" y="395" width="334" height="23"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yby-S8-jy7">
                                         <rect key="frame" x="0.0" y="0.0" width="334" height="23"/>
@@ -849,7 +855,7 @@
                                 </subviews>
                             </stackView>
                             <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="4Zq-9e-G7H">
-                                <rect key="frame" x="0.0" y="416" width="414" height="397"/>
+                                <rect key="frame" x="0.0" y="440" width="414" height="397"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="397" id="7mB-F7-xMr"/>
@@ -1142,7 +1148,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="bB3-kN-19h" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3276.811594202899" y="-265.76086956521743"/>
+            <point key="canvasLocation" x="3212" y="108"/>
         </scene>
         <!--Detail Image View Controller-->
         <scene sceneID="iiz-7e-1sr">
@@ -1176,7 +1182,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="zrR-eR-kzK" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4229" y="-266"/>
+            <point key="canvasLocation" x="4183" y="108"/>
         </scene>
         <!--Outfits-->
         <scene sceneID="sie-bO-u83">
@@ -1240,6 +1246,6 @@
         <image name="tabShirt" width="25.5" height="25.5"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="oA8-k4-zCy"/>
+        <segue reference="qn3-ZW-nat"/>
     </inferredMetricsTieBreakers>
 </document>

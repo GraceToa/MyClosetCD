@@ -31,7 +31,7 @@ This app use Core Data Framework, developed by Apple that allows us to simplify 
             width="990" alt="login"  </td>
 </tr>
 
- ## ![](https://github.com/FranHenriquez/otro/blob/master/apple.png) Documentación oficial Apple
+ ## ![](https://github.com/FranHenriquez/otro/blob/master/apple.png) Official Documentation Apple
  * Official Documentation: [CoreData](https://developer.apple.com/documentation/coredata)
  
  ## Link

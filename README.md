@@ -30,9 +30,11 @@ This app use Core Data Framework, developed by Apple that allows us to simplify 
         <td><img src="https://user-images.githubusercontent.com/10947013/64113092-a42ae900-cd89-11e9-8054-ed18919a76b7.png" 
             width="990" alt="login"  </td>
 </tr>
+
+ ## ![](https://github.com/FranHenriquez/otro/blob/master/apple.png) Documentación oficial Apple
+ * Official Documentation: [CoreData](https://developer.apple.com/documentation/coredata)
  
  ## Link
- - https://developer.apple.com/documentation/coredata
  - the running app is shown in
     
 

@@ -2,10 +2,11 @@
 <img src="https://user-images.githubusercontent.com/10947013/64112337-66c55c00-cd87-11e9-8373-ff1dc2fac6e3.png" align="center" width="150" alt="Project icon">
 
 # My Closet
-
 App for maciOS, use Framework Core Data
 </td></tr></table>
 
+## Autor
+Grace Toa  (App Developer)
 
 <strong>MyCloset</strong>: It is designed to help the user organize their wardrobe, as well as create and combine sets for each season, create custom lists distributed in categories according to the type of clothing.
 The basic idea of the app is to facilitate the user to develop a personal style and organization of their wardrobe.
@@ -35,7 +36,7 @@ This app use Core Data Framework, developed by Apple that allows us to simplify 
  * Official Documentation: [CoreData](https://developer.apple.com/documentation/coredata)
  
  ## Link
- - the running app is shown in
+- MyCloset: [Youtube](https://youtu.be/Pypka74pg_Q)
     
 
   

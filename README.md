@@ -5,13 +5,13 @@
 App for maciOS, use Framework Core Data
 </td></tr></table>
 
-## Autor
-Grace Toa  (App Developer)
-
 <strong>MyCloset</strong>: It is designed to help the user organize their wardrobe, as well as create and combine sets for each season, create custom lists distributed in categories according to the type of clothing.
 The basic idea of the app is to facilitate the user to develop a personal style and organization of their wardrobe.
 
 This app use Core Data Framework, developed by Apple that allows us to simplify the management of the data model of our applications.
+
+## Autor
+Grace Toa  (App Developer)
 
 ## Feature
 - Swift 5

@@ -19,6 +19,13 @@ Grace Toa  (App Developer)
 - Core Data
 - MVC
 
+ ## ![](https://github.com/FranHenriquez/otro/blob/master/apple.png) Official Documentation Apple
+ * Official Documentation: [CoreData](https://developer.apple.com/documentation/coredata)
+ 
+ ## Link
+- MyCloset: [Youtube](https://youtu.be/Pypka74pg_Q)
+    
+
 <table border="3" bordercolor="black" align="center"width="9999">
     <tr>
         <th> iPhone 8 12-2 </th> 
@@ -31,13 +38,4 @@ Grace Toa  (App Developer)
         <td><img src="https://user-images.githubusercontent.com/10947013/64113092-a42ae900-cd89-11e9-8054-ed18919a76b7.png" 
             width="990" alt="login"  </td>
 </tr>
-
- ## ![](https://github.com/FranHenriquez/otro/blob/master/apple.png) Official Documentation Apple
- * Official Documentation: [CoreData](https://developer.apple.com/documentation/coredata)
- 
- ## Link
-- MyCloset: [Youtube](https://youtu.be/Pypka74pg_Q)
-    
-
-  
 </table>
